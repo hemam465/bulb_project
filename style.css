@@ -1,0 +1,17 @@
+body
+{
+background: black;
+}
+h1
+{
+    font-weight: bold;
+    color:red;
+    text-align: center;
+    text-decoration-line: underline;
+}
+img
+{
+padding-top:75px;
+padding-left:500px;
+
+}
